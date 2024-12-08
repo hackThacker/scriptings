@@ -446,7 +446,7 @@ sayHello("Ben")  # Output: Hello Ben! Nice to meet you
 4. **Colon (:)**: Marks the start of the function body.
 5. **Indentation**: Everything indented after the colon is part of the function.
 
----
+
 
 ## Returning Values from Functions
 
@@ -486,7 +486,7 @@ print("You have spent: $" + str(spent))
 
 Python provides a variety of built-in data structures to organize and store data. Below is a guide to some of the most commonly used data structures in Python:
 
----
+
 
 ## 1. Lists
 A list is an ordered collection of elements that are mutable (can be changed).
@@ -506,7 +506,7 @@ print(my_list)  # Output: [10, 2, 3, 4, 5, 6]
 - `insert()`
 - `extend()`
 
----
+
 
 ## 2. Tuples
 A tuple is similar to a list, but it is **immutable** (cannot be changed after creation).
@@ -522,7 +522,7 @@ print(my_tuple)  # Output: (1, 2, 3)
 - `count()`
 - `index()`
 
----
+
 
 ## 3. Dictionaries
 A dictionary is an unordered collection of key-value pairs. Keys must be unique and immutable.
@@ -542,7 +542,7 @@ print(my_dict)  # Output: {'name': 'Alice', 'age': 26, 'city': 'New York'}
 - `items()`
 - `update()`
 
----
+
 
 ## 4. Sets
 A set is an unordered collection of unique elements. It does not allow duplicates.
@@ -562,7 +562,7 @@ print(my_set)  # Output: {1, 3, 4, 5}
 - `union()`
 - `intersection()`
 
----
+
 
 ## 5. Stacks (Using Lists)
 A stack is a collection that follows the **LIFO** (Last In, First Out) principle. Python lists can be used as stacks.
@@ -576,7 +576,7 @@ stack.pop()  # Pop
 print(stack)  # Output: [1]
 ```
 
----
+
 
 ## 6. Queues (Using deque from collections)
 A queue follows the **FIFO** (First In, First Out) principle. Python's `collections.deque` is ideal for this purpose.
@@ -591,7 +591,7 @@ queue.popleft()  # Dequeue
 print(queue)  # Output: deque([2, 3, 4])
 ```
 
----
+
 
 ## 7. Linked List (Custom Implementation)
 A linked list is a linear data structure in which elements (nodes) are connected via pointers.
@@ -631,7 +631,7 @@ ll.append(20)
 ll.display()  # Output: 10 -> 20 -> None
 ```
 
----
+
 
 ## 8. Heaps (Using heapq)
 A heap is a binary tree-based data structure that satisfies the heap property (min-heap or max-heap). Python's `heapq` module supports min-heaps.
@@ -650,7 +650,7 @@ print(heap)  # Output: [5, 10, 20]
 heapq.heappop(heap)  # Output: 5
 ```
 
----
+
 
 ## 9. Arrays (Using array module)
 An array is similar to a list, but it is **more efficient** for storing large amounts of data with a specific type.
@@ -933,9 +933,9 @@ Here are some of the most common exceptions in Python that you might encounter:
 - **FileNotFoundError**: Raised when trying to open a file that doesn't exist.
 - **KeyError**: Raised when trying to access a key that doesn’t exist in a dictionary.
 ---
-Yes, I understand. Below is an explanation of **Object-Oriented Programming (OOP)** in Python, including **classes**, **objects**, **inheritance**, and **encapsulation**, all formatted in **Markdown** with examples embedded.
+ Below There is an explanation of **Object-Oriented Programming (OOP)** in Python, including **classes**, **objects**, **inheritance**, and **encapsulation**, all are formatted in **Systematically** with examples embedded.
 
----
+
 
 # object-oriented-programming-oop-in-python
 
