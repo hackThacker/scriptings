@@ -18,9 +18,11 @@ This repository is intended for cybersecurity professionals, penetration testers
 3. **[Regular Expressions in Security](#regular-expressions-in-security)**
    - [Learn Regular Expressions](https://github.com/hackThacker/scriptings/blob/main/Regular%20Expressions/RegularExpressions.md) 
 
-3. **[Go for Security](#go-for-secure-applications)**
+4. **[Go for Security](#go-for-secure-applications)**
    - [Learn Golang](https://github.com/hackThacker/scriptings/blob/main/golang%20basic/golang.md) 
 
+5. **[Javascript for Security](#go-for-secure-applications)**
+   - [Learn Javascripts](https://github.com/hackThacker/scriptings/blob/main/javascript%20basic/Javascript.md) 
 ---
 
 ## Python for Cybersecurity
@@ -90,6 +92,25 @@ This repository is intended for cybersecurity professionals, penetration testers
 - Creating secure Go apps by leveraging Go`s memory safety mechanisms.
 
 [Expert into Golang](https://github.com/hackThacker/scriptings/blob/main/golang%20basic/golang.md) 
+
+---
+
+
+## JavaScript for Cybersecurity
+
+### Key Topics:
+- **Scripting and Automation**: Automate penetration testing, exploit development, and incident response procedures using JavaScript.
+- **Web Application Testing**: Scraping and testing websites with JavaScript libraries such as `axios`, `cheerio`, and `puppeteer`.
+- **Exploitation**: Use JavaScript to construct custom exploits and payloads for web and network vulnerabilities.
+
+- **Cryptography**: Learn encryption techniques using JavaScript libraries like `crypto-js` and `node-forge`.
+- **Network security**: Libraries like `net`, `dgram`, and `ws` are useful for network scanning, fuzzing, and packet manipulation.
+
+## Practical Applications: Use `revershell` to automate network scans.
+- Creating custom JavaScript-based reverse shells and exploits.
+- Creating bespoke vulnerability scanners.
+
+[javascript for cybersecurity](https://github.com/hackThacker/scriptings/blob/main/javascript%20basic/Javascript.md) 
 
 ---
 
