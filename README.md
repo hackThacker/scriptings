@@ -144,8 +144,15 @@ This repository is intended for cybersecurity professionals, penetration testers
   - [GoPacket](https://pkg.go.dev/github.com/google/gopacket) – Packet processing library.  
   - [TLSScan](https://github.com/RayWangQvQ/TLSScan) – Library for scanning TLS configurations.  
 
+- **javascript**:
+   - [JSFuck](https://www.jsfuck.com/) - This obfuscates JavaScript code, making it harder to reverse-engineer and protect against specific assaults.
+   - [JSHint](https://jshint.com/) - The static analysis tool detects faults and security weaknesses in JavaScript, such as unused variables and exploitable patterns.
 
----
+   - [Snyk](https://snyk.io/) - The static analysis tool detects faults and security weaknesses in JavaScript, such as unused variables and exploitable patterns.
+
+   - [Retire.js](https://retirejs.github.io/) - Retire.js is a tool for detecting the use of vulnerable JavaScript libraries in a web application. It analyzes dependencies and alerts developers about any security vulnerabilities with third-party libraries.
+
+  - [Helmet.js](https://helmetjs.github.io/) - Helmet.js is a Node.js middleware that protects Express programs by configuring HTTP headers to avoid vulnerabilities.
 ## Conclusion:
 
 
