@@ -28,7 +28,7 @@ Happy scripting! 🎉
 
 # Introduction to Bash Scripting
 
-When writing a Bash script, it's critical to provide the environment in which it will run. This is accomplished with the **shebang** ('#!/bin/bash'), which specifies the interpreter that will run the script. In this example, we are utilizing Bash.
+When writing a Bash script, it's critical to provide the environment in which it will run. This is accomplished with the **shebang** (`#!/bin/bash`), which specifies the interpreter that will run the script. In this example, we are utilizing Bash.
 
 ### Structure of a Bash Script
 
